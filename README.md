@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on a project named HealtBite.<br>⚡ Fun fact: Your brain is constantly eating itself.<br>👨‍💻 Most of my projects are available on this account.<br>🌱 I’m currently learning: Bootstrap
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iventa_rares) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivența_rareș) 
 
